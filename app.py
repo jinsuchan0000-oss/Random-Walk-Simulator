@@ -59,8 +59,8 @@ st.markdown("""
     .watermark {
         position: fixed;
         bottom: 15px;
-        right: 20px;
-        font-size: 28px;
+        left: 20px;
+        font-size: 22px;
         font-weight: bold;
         color: rgba(255, 255, 255, 0.4);
         z-index: 9999;
